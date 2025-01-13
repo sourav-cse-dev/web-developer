@@ -458,3 +458,21 @@ iframe {
   font-weight: 600;
 }
 /* suggetion section styles ends here */
+
+/* footer section style starts here */
+.end {
+  width: 70%;
+  height: 70px;
+  padding: 32px 150px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.social-media a img:hover {
+  cursor: pointer;
+  transform: scale(1.2);
+}
+/* footer section style ends here */
