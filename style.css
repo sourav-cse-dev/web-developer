@@ -105,4 +105,88 @@ nav button:hover {
   border-radius: 8px;
   cursor: pointer;
 }
+.hero-content button:hover {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  background-color: #4d5a6a;
+}
 /* banner section styles ends here */
+
+/* web-dev section styles starts here */
+.web-dev-container {
+  width: 1140px;
+  height: 1393px;
+  margin: 0 auto;
+  margin-top: 74px;
+  border-radius: 16px;
+  padding: 80px 97px 80px 97px;
+  background-color: rgba(13, 19, 33, 0.02);
+}
+.web-dev-title-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.web-dev-title-content h2 {
+  font-size: 32px;
+  font-weight: 800;
+}
+.web-dev-title-content p {
+  margin-top: 24px;
+  font-size: 16px;
+  font-weight: 400;
+  width: 852px;
+  height: 52px;
+  text-align: center;
+  color: rgb(13, 19, 33);
+}
+.card {
+  margin-top: 48px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 48px;
+  width: 946px;
+  height: 336px;
+  gap: 100px;
+  border-radius: 16px;
+  background-color: white;
+}
+.card-text h3 {
+  margin-top: 10.5px;
+  font-size: 22px;
+  font-weight: 700;
+  color: rgba(13, 19, 33, 0.7);
+  width: 400px;
+  height: 72px;
+}
+.card-text p {
+  margin-top: 16px;
+  width: 468px;
+  height: 52px;
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(13, 19, 33);
+}
+.card-text button {
+  margin-top: 32px;
+  width: 171px;
+  height: 47px;
+  font-size: 20px;
+  font-weight: 600;
+  align-items: center;
+  color: rgb(13, 19, 33);
+  border: 1px solid rgb(13, 19, 33);
+  border-radius: 8px;
+  cursor: pointer;
+}
+.card-text button:hover {
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  background-color: #e0e0e0;
+}
+.card-image {
+  width: 259.56px;
+  height: 217.01px;
+}
+/* web-dev section styles ends here */
