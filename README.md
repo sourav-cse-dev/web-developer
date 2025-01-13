@@ -4,9 +4,9 @@
 
 # Technologies Used:
 
-HTML: I have used HTML for building the structure of web pages.
+1. HTML: I have used HTML for building the structure of web pages.
 
-CSS: I have used CSS for styling and designing the visual appearance of web pages. I will make it responsive gradually.
+2. CSS: I have used CSS for styling and designing the visual appearance of web pages. I will make it responsive gradually.
 
 # Learnings:
 
