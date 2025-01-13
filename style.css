@@ -55,3 +55,22 @@ nav button:hover {
   background-color: #ccc;
 }
 /* nav section style ends here */
+
+/* banner section styles starts here */
+.banner-container {
+  border: 2px solid red;
+  width: 100%;
+  height: 652px;
+  margin: 0 auto;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  background-blend-mode: overlay;
+  background-image: url(./assets/Hero-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+}
+/* banner section styles ends here */
